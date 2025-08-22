@@ -1,4 +1,4 @@
-const Personagen = require("./class/Personagen")
+const Personagen = require("./src/class/Personagen")
 
 // const personagen = [
 //  new Personagen("everson", "Guerreiro", 100),
@@ -23,3 +23,4 @@ const personagen3 = new Personagen("Enzo", "Arqueiro", 90)
 console.log(personagen3.nome)
 console.log(personagen3.class)
 console.log(personagen3.vida)
+
